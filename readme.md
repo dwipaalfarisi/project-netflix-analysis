@@ -35,8 +35,6 @@ From the chart, we can conclude that 2019 is the year where Netflix added films 
 <br>
 
 <img src="./plots/12.png" alt="Year Released and Year Added FIlms into Netflix plot" width="500" height="200">
-
-
 <br>
 <br>
 
