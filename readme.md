@@ -22,7 +22,6 @@ Please navigate to `main.ipynb` for the walkthrough of each problem. I tried to 
 As the chart shows, we have many films that were released in 2017 and 2018. The chart shows only the year where a particular film is released, not the year it was added to Netflix.<br>
 Another interesting point is, even though I only include films that were released in 2010 above, we know that from 2018, the amount of films from 2019 to 2021 is not as significant as films released in 2017 and 2018. In a nutshell, it is declining.
 <br>  
-<br>
 
 ### **Problem 2**
 <img src="./plots/2.png" alt="Most popular release year for films plot" width="500" height="200">
@@ -36,7 +35,6 @@ From the chart, we can conclude that 2019 is the year where Netflix added films 
 
 <img src="./plots/12.png" alt="Year Released and Year Added FIlms into Netflix plot" width="500" height="200">
 <br>
-<br>
 
 ### **Problem 3**
 <img src="./plots/3.png" alt="Most popular release year for films plot" width="500" height="300">
@@ -45,7 +43,6 @@ From the chart, we can see there are some up and downs where Netflix added conte
 <br>
 <br>
 We can see Netflix added content to its platform the most around summer and winter, for obvious reasons. I think this is a reasonable hypothesis to make considering how robust people would consume Netflix during these two periods.   
-<br>
 <br>
 
 ### **Problem 4**
@@ -60,7 +57,6 @@ We can see Netflix added content to its platform the most around summer and wint
 <br>
 
 > To be honest, there's not much to explain this. But if you're curious, searching what these films are about may be interesting. 
-
 <br>
 
 ### **Problem 5**
